@@ -1,0 +1,69 @@
+Microservice Architecture (A practical approach) 
+Duration: 2 Month 
+Course Fee: 5000 Rs/Student
+
+Course Content:
+
+Introduction
+	1. What is Microservice?
+	2. What is Web Service? Key Terminology.
+	3. Introduction to SOAP WS and RESTful WS
+	4. SOAP WS Vs RESTful WS
+	
+RESTful WS with SpringBoot
+	1. What is SpringBoot and Advantage of SpringBoot.
+	2. Initializing a RESTful Service project with SpringBoot
+	3. Hello World Project with SpringBoot
+	4. Auto configuration and Dispatcher Servlet
+	5. Basic Annotations
+	6. Implementation of HTTP protocol methods
+	7. Exception Handling 
+	8. Internationalisation
+	9. Content Negotiation
+	10. Swagger Documentation
+	11. Monitoring API with SpringBoot Actuator
+	12. Implementing Static Filtering for RESTful Service
+	13. Implementing Dynamic Filtering for RESTful Service
+	14. Versioning RESTful Services - Basic Approach with URIs
+	15. Versioning RESTful Services - Header and Content Negotiation Approach
+	16. Implementing Basic Authentication with Spring Security
+	17. Overview of Connecting RESTful Service to JPA
+	18. Creating User Entity and some test data
+	19. Updating GET methods on User Resource to use JPA
+	20. Updating POST and DELETE methods on User Resource to use JPA
+	21. Creating Post Entity and Many to One Relationship with User Entity
+	22. Implementing a GET & POST service to retrieve all Posts of a User
+	23. RESTful Web Services - Best Practices
+	
+Microservice with Spring Cloud
+	1.  Introduction to Microservices and Challenges with Microservices.
+	2.  Introduction to Spring Cloud
+	3.  Advantages of Microservices Architectures
+	4.  Microservice Components - Standardizing Ports and URL
+	5.  Intro to Spring Cloud Config Server
+	6.  Example program to demonstrate Cloud Config Server.
+	7.  Connect Spring Cloud Config Server to Local Git Repository
+	8.  Configuration for Multiple Environments in Git Repository
+	9.  Connect Limits Service to Spring Cloud Config Server
+	10. Setting up client side load balancing with Ribbon
+	11. Example program to demonstrate client side load balancer Ribbon.
+	12. Understand the need for a Naming Server
+	13. Setting up Eureka Naming Server
+	14. Example program to demonstrate Eureka Server.
+	15. Distributing calls using Eureka and Ribbon
+	16. Feign Client
+	17. A review of implementing Eureka, Ribbon and Feign
+	18. Introduction to API Gateways.
+	19. Setting up Zuul API Gateway.
+	20. Implementing Zuul Logging Filter
+	21. Setting up Zuul API Gateway between microservice invocations
+	22. Introduction to Distributed Tracing & Implementing Spring Cloud Sleuth
+	23. Introduction to Distributed Tracing with Zipkin
+	24. Setting up Distributed Tracing with Zipkin & RabbitMQ Server
+	25. Connecting microservices to Zipkin
+	26. Using Zipkin UI Dashboard to trace requests
+	27. Understanding the need for Spring Cloud Bus
+	28. Implementing Spring Cloud Bus
+	29. Fault Tolerance with Hystrix
+	30. Review of springboot based microservices.
+	

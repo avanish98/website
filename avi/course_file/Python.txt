@@ -1,0 +1,65 @@
+Python 3.+: A General Purpose Scripting Language (A practical approach) 
+Duration: 4 Week 
+Course Fee: 2000 Rs/Student
+
+Course Content:
+
+Introduction to Python
+	1. Basic of Python
+	2. Usercases of Python
+	3. Role of Python in Machine Learning and IOT.
+	4. Writing and executing your first python script
+	5. Python Virtual Machine and bytecode
+	
+Python IDE
+	1. Installing and introduction to PyCharm
+	2. Code and debugg with PyCharm
+	3. Installing and introduction to PyDev
+	4. Code and debugg with PyDev
+	
+DataTypes
+	1. Text, Numeric and Boolean Data Type
+	2. Strings are Immutable 
+	3. List
+	4. Map
+	5. Tupples
+	
+Conditional Operators:
+	1. Logical Operators
+	2. Introduction to If Condition
+	3. Introduction to If Condition - else and elif
+	4. Examples based on conditional operators.
+
+Python Loops:
+	1. Loop Basics
+	2. For loop (Variety of for loops)
+	3. While loop
+	4. Break, continue and pass
+	
+Object Oriented Programming:
+	1. Introduction to object oriented programming
+	2. Class and Object
+	3. Method and behaviour
+	4. Object oriented concept.
+	5. Encapsulation, Polymorphism and Inheritance
+	6. Abstract Class
+	
+Error Handling with Python
+	1. Introduction to Error Handling
+	2. Basics of Exception Hierarchy
+	3. Error Handling - try, except, finally and else block.
+	4. Handling Multiple Errors with multiple except block
+	5. Raising Exception
+	6. Custom Exception
+	
+Python Modules:
+	1. Math module and Decimal Class
+	2. Statistic Module
+	3. Collection Module
+	4. Date Module
+	5. Methods and Arguments
+	6. Creating custom module and using them
+	7. Defining Equality for Classes.
+	
+
+	

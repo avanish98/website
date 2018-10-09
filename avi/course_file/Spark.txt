@@ -1,0 +1,55 @@
+Apache Spark: Cluster based Stream Processing Tool (A practical approach) 
+Duration: 3 Week 
+Course Fee: 3000 Rs/Student
+
+Course Content:
+
+Spark Basics and Configuration
+	1. 	Features of Apache Spark and Runtime Architecture
+	2. 	Install Spark on Ubuntu
+	3. 	Install Spark on Mac OS
+	4. 	Python Spark Shell - PySpark
+	5. 	Setup Java Project with Spark
+	6. 	Spark Java Application- WordCount Example
+	7. 	Spark Python Application
+	8. 	Spark DAG & Physical Execution Plan
+	9. 	Setup Spark Cluster
+	10. Configure Spark Ecosystem
+	11. Configure Spark Application
+	12. Spark Cluster Manager
+	
+Spark RDD
+	1.  What is Spark RDD
+	2.  Spark RDD - Print Contents of RDD
+	3.  Spark RDD - foreach
+	4.  Spark RDD - Create RDD
+	5.  Spark Parallelize
+	6.  Spark RDD - Read Text File to RDD
+	7.  Spark RDD - Read Multiple Text Files to Single RDD
+	8.  Spark RDD - Read JSON File to RDD
+	9.  Spark RDD - Containing Custom Class Objects
+	10. Spark RDD - Map
+	11. Spark RDD - FlatMap
+	12. Spark RDD - Filter
+	13. Spark RDD - Distinct
+	14. Spark RDD - Reduce
+	
+Spark DataSet:
+	1. Spark - Read JSON file to DataSet
+	2. Write DataSet to JSON file
+	3. Spark - Add new Column to Dataset
+	4. Spark - Concatenate Datasets
+	
+Spark SQL:
+	1. Spark SQL 
+	2. Spark SQL - Load JSON file and execute SQL Query
+	
+Spark MLib: (Fee: Rs 2000/- extra, Duration: 1 Week)
+	1. What is Spark MLib
+	2. Classification using Logistic Regression
+	3. Classification using Naive Bayes
+	4. Decision Trees
+	5. Random Forests
+	6. Clustering using KMeans
+	7. Topic Modelling using Latent Dirichlet Conditions
+	

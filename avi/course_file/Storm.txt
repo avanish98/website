@@ -1,0 +1,41 @@
+Apache Storm: Cluster based Stream Processing Tool (A practical approach) 
+Duration: 1 Week 
+Course Fee: 1000 Rs/Student
+
+Course Content:
+
+Introduction to Apache Strom
+	1. What is stream processing?
+	2. What is Strom and what is use of it? 
+	3. What is topology.
+	
+Storm Components
+	1. Zookeeper cluster
+	2. Nimbus and Supervisor nodes.
+	
+Setting Up Storm Cluster
+	1. Setting up zookeeper cluster
+	2. Developing and deploying of storm topology
+	3. Configuring the parallism of topology
+		a. The worker process
+		b. The executors
+		c. task
+	4. Rebalancing of parallelism 
+	5. Stream Grouping:
+		a. Shuffle grouping
+		b. Field grouping
+		c. All grouping
+		d. Global grouping
+		e. Direct grouping
+		f. Custom grouping
+	
+Monitoring the Strom Cluster:
+	1. Use of Storm UI
+	2. Cluster statistics using nimbus thrift client.
+	
+Example and demonstration of Strom SQL
+Building strom with maven.
+Setting up a secure cluster.
+	
+
+	

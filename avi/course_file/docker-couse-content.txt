@@ -1,0 +1,67 @@
+Docker (2 Week : 1000 Rs/student)
+
+Couser Content:
+
+Introduction to docker:
+	1. What is docker? Why docker?
+	2. Docker Editions
+	3. Installing docker (linux, Mac and Window)
+	4. Docker toolbox
+	
+Creating and Using Container:
+	1. Basic commands
+	2. Starting a Nginx Server
+	3. Run a container
+	4. Container Vs VM
+	5. Manage multiple container
+	6. Cli process monitoring in Container
+	7. Getting a shell inside container
+	8. Docker Network.
+	9. Private and Public commands for container
+	10. Cli management of virtual networks.
+	11. DNS and how network container find each others.
+	
+Container Image:
+	1. What is an Image?
+	2. Docker Hub Registry
+	3. Image and their layers
+	4. Docker file basics
+	5. Running a docker build
+	6. Extending Official Images
+
+Container Lifetime and Persistent Data:
+	1. Container lifetime and persistent data
+	2. Persistent Data: Data volumes and Bind Mounting
+
+Docker Composer: The Multi-container tool
+	1. Docker compose and docker-compose.yml file
+	2. Trying out basic compose commands
+	3. Adding image building to compose files
+
+Swarm Intro: Creating a 3-node Swarm Cluster:
+	1. Swarm Mode: Built-in Orchestration
+	2. Create your first service and scale it locally.
+	3. UI change for service create/update.
+	4. Creating 3-node swarm cluster.
+	
+Swarm Basic Features and How to use them in your work-flow:
+	1. Scaling out with overlay networking
+	2. Scaling out with routing mesh
+	3. Swarm stacks and production grade compose
+	4. Secret storage for swarm
+	5. Using secrets in Swarm Services and Stacks
+	
+Swarm App Lifecycle:
+	1. Using secrets with local docker compose.
+	2. Full app lifecycle: dev, build and deploy with s single compose design
+	3. Healthchecks in dockerfiles
+
+Container Registries: Imae storage and distribution
+	1. Docker Hub
+	2. Docker Store
+	3. Docker Cloud
+	4. Understaning docker registry
+	5. Run a private docker registry
+	6. Docker registry with Swarm.
+	
+---------------------------------------------

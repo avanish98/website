@@ -1,0 +1,73 @@
+AWS (Amazon Web Services)(A practical approach) 
+Duration: 3 Week 
+Course Fee: 3000 Rs/Student
+
+Course Content:
+
+Course Introduction:
+	1. Introduction
+	2. AWS Free Tier
+	3. Create an AWS Account
+	4. How to Navigate the AWS Console
+	5. AWS Documentation
+	
+Identity & Access management:
+	1. What is IAM
+	2. IAM Initial Setup and Configuration
+	3. IAM Users and Policies
+	4. IAM Groups and Policies
+	5. IAM Roles
+	
+Virtual Private Cloud:
+	1. AWS Global Infrastructure
+	2. VPC Basics
+	3. Internet Gateways
+	4. Route Tables
+	5. Network Access Control List
+	6. Subnets
+	7. Availability Zones(VPC Specific)
+
+Simple Storage Service(S3)
+	1. S3 Basics
+	2. Buckets & Objects
+	3. Storage Classes
+	4. Object Lifecycles
+	5. Permissions
+	6. Object Versioning
+	
+Elastic Compute Cloud (EC2)
+	1. EC2 Basics
+	2. Amazon Machine Images (AMI)
+	3. Instance Types
+	4. Elastic Block Store(EBS)
+	5. Security Groups
+	6. IP Addressing
+	7. Launching and Using an EC2 Instance
+	
+Databases
+	1. RDS and DynamoDB Basics
+	2. Provisioning an RDS MySQL Database
+	
+Simple Notification Service(SNS):
+	1. SNS Basics
+	2. Using SNS
+	
+Cloud Watch:
+	1. CloudWatch Basics
+	2. CloudWatch Metrics and Alarms
+
+Elastic Load Balancer(ELB):
+	1. ELB Basics
+	2. Creating an ELB
+	
+Auto Scaling:
+	1. AutoScaling Basics
+	2. Using Auto Scaling
+	
+Route 53:
+	1. Route 53 Basics
+	2. Using Route 53
+	
+Lambda
+	1. Lambda Basics
+	2. Lambda Test

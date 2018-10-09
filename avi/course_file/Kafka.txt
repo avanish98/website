@@ -1,0 +1,58 @@
+Apache Kafka: Cluster based Message Broker (A practical approach) 
+Duration: 2 Week 
+Course Fee: 2000 Rs/Student
+
+Course Content:
+
+Introduction to Kafka:
+	1. What is messaging and message broker.
+	2. Standalong message broker
+	3. Cluster based message borker.
+	4. Cluster based Kafka architecture.
+	5. Installation of Kafka.
+	6. Console based demostration.
+	
+Components of Kafka:
+	1. What is zookeeper
+	2. What si topics -> Partitions, Replication Factor
+	4. Producer and Consumer
+	5. Multi-tenancy
+	
+Usercase-types of Kafka:
+	1. Kafka as a Messaging System
+	2. Kafka as a Storage System
+	3. Kafka for Stream Processing.
+	
+Setting up the Kafka Cluster:
+	1. Single node - single broker cluster
+	2. Single node - multiple broker cluster
+	3. Mutliple node -multiple broker cluster
+	
+Writing Producer and Consuer:
+	1. Writing java based kafka producer
+	2. Writing java based kafka producer with message partitioning
+	3. Writing java based Kafka consumer.
+	4. Wirting java based multithreaded Kafka consumer for multipartition topics.
+	5. Writing Python based Kafka producer and consumer.
+	6. Writing node-js based kafka producer and consumer. 
+	
+Kafka Tools:
+	1. Kafka Migration tool
+	2. Kafka Mirror maker
+	3. Consumer offset checker
+	4. Kafka Administration tool
+		a. Kafka topic tools
+		b. Kafka replication tools.
+	5. Kafka Performance Testing.
+	
+Kafka Integration:
+	1. 
+	1. Kafka Integration with Apache Spark
+	2. Kafka integration with Apache Storm.
+	
+Kafka Connect with example
+Kafka Stream with  examples
+	
+
+	
+

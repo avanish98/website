@@ -1,0 +1,51 @@
+IOT: Internet of Things
+Duration: 2 Week 
+Course Fee: 3000 Rs/Student
+
+Course Content:
+
+What is IOT
+	1. Introduction to IOT
+	2. How IOT works
+	3. Prerequisites before learning IOT
+	4. Features of IOT
+	5. IOT Architecture
+	
+IOT Protocol:
+	1. Bluetooth
+	2. Zigbee
+	3. Z-Wave
+	4. Wi-Fi
+	5. Cellular
+	6. NFC
+	7. LoRaWAN
+	
+IOT Messaging Protocol:
+	1. MQTT
+	2. CoAP
+	3. AMQP
+	4. DDS
+	
+IOT Hardware and Software:
+	1. Porcessing Unit: Raspberry Pi, BeagleBoard, Arduino Uno and IBM Edision
+	2. IOT Sensors
+	3. IOT Software: IOT Platform- KAA, FiWARE, AWS IOT, AZURE IOT
+	
+AWS IOT:
+	1.  What is AWS IOT?
+	2.  Getting started with AWS IOT.
+	3.  AWS IOT button 
+	4.  AWS IOT Rules
+	5.  AWS IOT SDK
+	6.  Provisioning/Managing devices with AWS IOT
+	7.  Security and Identity
+	8.  Message Broker
+	9.  Device Shadow Service
+	10. Device Provisioning
+	11. AWS IOT Events
+	12. IOT Monitoring
+	13. AWS IOT Jobs
+	14. Troubleshoting
+	15. Smart light application with AWS IOT.
+	
+

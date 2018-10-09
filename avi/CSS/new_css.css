@@ -1,0 +1,443 @@
+.account_head{margin:30px 0px 0px 0px; padding:0px;}
+.account_head h1{padding:20px 0px; text-align:center; background:#0151b0;  font-family: 'dosissemibold'; margin:0px 0px 0px 0px; line-height:20px; letter-spacing:0px;  color:#fff; font-size:22px; }
+
+
+
+
+
+
+.glossymenu{
+margin:5px 0 0px 0px;
+padding:0px; /*width of menu*/
+border-bottom-width: 0;
+background:#fff;
+margin-bottom:40px;
+border-radius:2px;
+}
+
+.glossymenu a.menuitem{
+
+font-size:14px;
+display: block;
+position: relative; /*To help in the anchoring of the ".statusicon" icon image*/
+width: auto;
+padding:5px 12px 8px;
+text-decoration: none;
+
+/*font-weight:bold;*/
+color:#000;
+background:#fff;
+border-bottom: 1px solid #cecece;
+text-transform:uppercase;
+
+}
+
+
+.glossymenu a.menuitem:visited, .glossymenu .menuitem:active{
+
+}
+
+.glossymenu a.menuitem .statusicon{ /*CSS for icon image that gets dynamically added to headers*/
+position: absolute;
+top: 19px;
+right:10px;
+border: none;
+}
+
+.sel{background:#fab207 !important;
+	color:#fff !important;}
+
+.glossymenu a.menuitem:hover{
+	background:#fab207;
+	color:#fff;
+	transition: color 0.2s ease-out 0s, background 1s ease-in 0s;
+}
+
+.glossymenu div.submenu{ /*DIV that contains each sub menu*/
+background: white;
+}
+
+.glossymenu div.submenu ul{ /*UL of each sub menu*/
+ list-style: none outside none; margin: 0; padding: 0px 0  0px; text-align: left;
+}
+
+.glossymenu div.submenu ul li{
+
+ margin:2px 0px;
+ background:#ffe29c;
+ line-height:25px;
+ padding:0px 4px;
+}
+
+.glossymenu div.submenu ul li a{
+    color: #303030;
+    display: block;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 27px;
+    list-style: outside none none;
+    margin: 0;
+    padding: 1px 0 1px 17px;
+    text-decoration: none;
+	font-weight:600;
+}
+
+.glossymenu div.submenu ul li a:hover{
+background: #000;
+color:#fff;
+font-weight:normal;
+font-weight:600;
+transition: color 0.2s ease-out 0s, background 1s ease-in 0s;
+}
+
+
+.glossymenu div.submenu ul li a .active{
+background: #e81d25;
+color:#fff;
+font-weight:normal;
+font-size:16px;
+font-weight:600;
+transition: color 0.2s ease-out 0s, background 1s ease-in 0s;
+}
+
+
+.main_container {
+    padding-left: 30px;
+    padding-right: 30px;
+    width: 100%;
+}
+
+.navbar-brand{padding:15px 0 0 0px;}
+
+
+.glyphicon {
+   
+    display: inline-block;
+    font-family: "Glyphicons Halflings";
+    font-size:25px;
+    font-style: normal;
+    font-weight: 400;
+    left: -1px;
+    line-height: 0;
+    position: relative;
+    top:0px;
+	line-height:1;
+  }
+
+
+input.text,
+input[type="text"],
+input[type="button"],
+input[type="submit"],
+.input-checkbox {
+-webkit-appearance: none !important;
+}
+
+*{outline:none;}
+
+.padding_main{padding:0px;}
+.padding_in{padding:3px;}
+.padding_course{padding-left:50px; padding-right:50px;}
+.padding_enquery{padding-left:30px; padding-right:30px;}
+.padding_left{padding-left:0px;}
+
+
+
+
+
+.nav > li > a {
+    display: block;
+    padding:10px 11px 10px 11px;
+    position: relative;
+	font-size:14px;
+	color:#000;
+	font-weight: 500;
+	letter-spacing:0.6px;
+	font-family: 'dosissemibold';
+	text-transform:uppercase;
+	margin:30px 6px;
+	transition:800ms ease all;
+}
+
+.navbar-nav > li.active a, .navbar-nav > li > a:hover {
+    color: #fff;
+	background:#fab207;
+	border-radius:4px;
+	box-shadow:0px 0px 5px #d69702;
+	
+}
+.navbar-nav > li.active a, .navbar-nav > li > a.active {
+    color: #fff;
+	background:#fab207;
+	border-radius:4px;
+	box-shadow:0px 0px 5px #d69702;
+}
+
+.wrap_margin{margin-top:68px;}
+
+
+.navbar-collapse {
+    border-top: 1px solid transparent;
+    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1) inset;
+    max-height: 340px;
+    overflow-x: visible;
+    padding-left: 15px;
+    padding-right: 15px;
+	background:transparent
+}
+ 
+.main_padding{padding:0px}
+.widebox_black{margin:0px; padding:0px; background:#142340}
+.widebox_grayy{margin:0px 0px 0px 0px; padding:30px 0px 40px 0px; background:#f3f3f1}
+.widebox_white_top{ background:#fff; }
+.widebox_white{ background:#fff; padding-bottom:90px;}
+.widebox_gray{ background:#f7f5f5; padding:0px 0px 60px 0px;}
+.widebox_gray_inner{ background:#f7f5f5; padding:0px 0px 0px 0px; margin:0px;}
+.widebox_mid{ background:#fff;  padding:0px 0px 30px 0px;}
+.widebox_black{ background:#f7f5f5; padding:0px 0px 60px 0px;}
+
+
+.top_main{margin:12px 0px 0px 0px; padding:0px;}
+.top_main a{color:#fff; font-size:14px; margin:0px 0px 0px 0; padding:10px 15px 0px 0px;  font-family: 'dosissemibold'; }
+.social_icon{margin:12px 0px 0px 0px; padding:0px; text-align:right}
+.social_icon a{color:#fff; font-size:14px; margin:0px 0px 0px 0; padding:0px 0px 0px 0px;  font-family: 'dosissemibold'; }
+
+.login_box{margin:30px 0px 50px 0px; padding:0px; background:#FFF; border:1px #e4e4e4 solid; overflow:hidden; }
+
+.ban_main {
+    /*background-attachment: fixed;*/
+    background-image: url("images/home.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 580px;
+    padding: 60px 0;
+    position: relative;
+	margin-top:0px;
+}
+
+.enquiry_form {
+    background-color: rgba(0, 0, 0, 0.05);
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3);
+    padding:0px 0px 0;
+}
+
+.enquiry_form h1{color:#fff; font-size:25px;  border-radius: 5px 5px 0px 0px; margin:0px 0px 10px 0; padding:20px 0; text-align:center; background:#e2cf88; font-family: 'dosisbold';}
+
+
+.login_form { background-image: none; background:#fff; border:none; color: #000; display: block; font-size: 15px;  height:55px;  line-height: 1.42857;  padding: 10px 12px;  transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s; font-weight:600;  width: 100%; margin-top:20px; border-radius: 5px ; font-family: 'dosisbook'; box-shadow:0px 0px 7px #696969;}
+
+
+.signup_form { background-image: none; background:#fff; border:none; color: #000; display: block; font-size: 15px;  height:45px;  line-height: 1.42857;  padding: 10px 12px;  transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s; font-weight:600;  width: 100%; margin-top:20px; border-radius: 5px ; font-family: 'dosisbook'; box-shadow:0px 0px 2px #696969;}
+
+.procees_box{margin:45px 0px 0px 0px; padding:0px; text-align:center }
+.procees_box h1{margin:0px; padding:10px 0px 0px 0px; color:#002742; text-align:center; font-size:24px;  margin:auto; font-family: 'dosisbold'; }
+.procees_box p{color: #000; font-size:16px; margin:0px 0px 0px 0;  padding:25px 0 0px 0px; font-family: 'dosislight';}
+
+
+.inner_contant{margin:10px 0px 0px 20px; padding:0px;}
+.inner_contant h2{color:#fab207; font-size:35px; margin:0px 0px 0px 0; padding:25px 0 0px 20px; text-transform:uppercase; font-weight:300;  font-family: 'dosislight'; }
+
+.inner_contant h3{color:#fab207; font-size:22px; margin:0px 0px 0px 0; padding:10px 0 0px 20px; text-transform:uppercase; font-weight:300;  font-family: 'dosislight'; }
+.inner_contant h4{padding:10px 20px 0px 20px; margin:0px 0px 0px 0px; font-size:16px; font-weight:400;  color:#000; line-height:25px; }
+
+
+.service_bg {
+    background-attachment: fixed;
+    background-image: url("images/home.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    min-height: 520px;
+    padding:0px 0 60px 0px;
+    position: relative;
+	margin-top:70px;
+}
+
+
+.service_col{margin:40px 0px 0px 0px; padding:0px;}
+.service_col h1{margin:0px; padding:10px 0px 15px 0px; color:#fff; text-align:center; font-size:24px;  margin:auto; font-family: 'dosisbold'; }
+.service_col p{padding:20px 0px; margin:0px 0px 0px 0px; font-size:14px; font-weight:400;  color:#fff;}
+
+.service_box{margin:15px 0px 25px 0px; padding:0px;}
+.service_box h1{margin:0px; padding:10px 0px 15px 0px; color:#fff; font-size:24px;  margin:auto; font-family: 'dosisbold'; }
+.service_box p{padding:0px 0px 0px 0px; margin:0px 0px 0px 0px; font-size:14px; font-weight:400;  color:#fff;}
+
+
+
+.coures{padding:0px; text-align:center; margin-top:30px;  }
+.coures h1{margin:0px; padding:10px 0px 15px 0px; color:#000; font-size:24px;  margin:auto; font-family: 'dosisbold';} 
+.coures p{padding:0px 0px 0px 0px; margin:30px 0px 10px 0px; font-size:16px; font-weight:400;  color:#000; font-family: 'dosismedium';}
+
+.coures_box{padding:0px;  margin-top:40px;  }
+.coures_box h1 a{margin:0px; padding:0px 0px 10px 0px;  font-size:17px; font-family: 'dosisbold'; text-align:left;} 
+
+
+
+
+.footer_bg{background:#eaeaea; min-height:210px;}
+.footer_bottom_text{ overflow:hidden;}
+.footer_bottom_text h1{padding:0px 0px 0px 0px; margin:36px 0px 0px 0px; line-height:20px;  letter-spacing:0px; text-align:left; color:#000; font-size:18px; font-family: 'dosisbold'; text-transform:uppercase;}
+
+.footer_bottom_text h4{padding:20px 0px 0px 0px; margin:0px 0px 10px 0px; line-height:22px; font-weight:normal; letter-spacing:0px; text-align:left; color:#000; font-size:16px;}
+
+.footer_bottom_text p{padding:20px 60px 20px 0px; margin:0px 0px 0px 0px; line-height:22px; font-weight:normal; letter-spacing:0px; text-align:left; color:#000; font-size:14px;}
+
+
+
+.footer_menu { margin: 0; padding: 0 0px; width:100%;  }
+.footer_menu ul { list-style: none outside none;  padding: 0px 0  0px; margin-bottom:0px;}
+.footer_menu ul li { color: #7e7e7e; display: block; font-size: 14px;  line-height: 28px; list-style: outside none none; margin: 0; padding: 0px 0px 0px 0px; text-decoration: none;}
+.footer_menu ul li a {color:#0c0b0b; font-size:14px;  line-height:28px; list-style: outside none none; margin: 0; padding: 0px 10px 2px 25px; text-decoration: none; background:url(../images/footer_nav_arrow.png) 4px 3px no-repeat; font-family: 'dosisbold'; text-transform:uppercase; letter-spacing:2px;}
+.footer_menu ul li a:hover { color: #face00; }
+.footer_menu ul li a.active { color: #face00;}
+
+.copy_right{ padding:0px;  width:100%;  text-align:center}
+.copy_right h5{padding:12px 0px 12px 0px; margin:0px 0px 0px 0px; line-height:20px; letter-spacing:1px;  color:#fff; font-size:14px; text-align:center  }
+
+.footer_right{width:100px; height:100px; float:left; margin-right:20px;}
+
+
+.footer_wrapper_black{background:#000; min-height:50px; margin:40px 0px 0px 0px; padding:0px 0px;}
+.footer_wrapper_black h5{ color:#FFF; font-family: 'dosisbook'; font-size:16px; padding:10px 0px;}
+
+
+.pagetitle {
+    background-attachment: fixed;
+    background-image: url("images/home.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    min-height:50px;
+    padding:30px 0 40px 0px;
+    position: relative;
+	margin-top:70px;
+}
+
+
+.course_heading{margin:30px 0px 0px 0px; padding:0px;}
+.course_heading h1{background: #0151b0 none repeat scroll 0 0; color: #fff; font-family: "dosissemibold"; font-size: 22px; letter-spacing: 0;    line-height: 20px; margin: 0; padding: 20px 0;  text-align: center; }
+.course_heading p{padding:0px 0px 0px 0px; margin:0px 0px 0px 0px; font-size:14px; font-weight:400;  color:#fff;}
+
+
+.course_box{margin:2px 0px 25px 0px; padding:0px; background:#FFF}
+.course_box h1{ color: #000; font-family: "dosissemibold"; font-size: 22px; letter-spacing: 0;line-height: 20px; margin: 0; padding: 20px 0;  text-align: center; }
+.course_box h2{ color: #000; font-family: "dosissemibold"; font-size:16px; letter-spacing: 0;    line-height: 20px; margin: 0; padding:15px 20px 0px 20px;   }
+.course_box h3{ color: #000; font-family: "dosissemibold"; font-size: 22px; letter-spacing: 0;line-height: 20px; margin: 0; padding: 20px 0px 0px  0;  text-align: center; }
+
+.course_box h5{ color: #000; font-family: "dosissemibold"; font-size:18px; letter-spacing: 0;line-height: 22px; margin: 0; padding: 20px 20px 0px  20px;   }
+
+
+.course_box p{padding:15px 20px 0px 20px; margin:0px 0px 0px 0px; font-size:14px; color:#000;}
+.course_box p strong{ color:#fab207;}
+.course_box h2 strong{ color:#fab207;}
+.course_box h3 strong{ color:#fab207; text-align:left}
+
+.course_box { padding: 0 0px; width:100%; margin:30px 0px 0px 0px;}
+.course_box ul { list-style: none outside none;  padding: 0px 0  10px; margin:0px 0px 0px 8px;  }
+.course_box ul li {color: #202d34; display: block; font-size:15px; line-height:30px; list-style: outside none none; margin: 0; padding: 0px 20px 0px 40px; text-decoration: none;  font-family: 'dosismedium'; background:url(../images/cat_arrow.png) 13px 6px no-repeat; }
+.category h1 {padding:8px 20px 8px 20px; margin:0px 0px 10px 0px; line-height:20px; letter-spacing:0.5px; color:#000; font-size:16px; background:#b8b8b8;  font-family: 'dosismedium'; text-align:left}
+
+
+.category h3 {padding:15px 20px 8px 20px; margin:0px 0px 0px 0px; line-height:20px; letter-spacing:0.5px; color:#0151b0; font-size:16px;  font-family: 'dosissemibold'; text-align:left}
+
+
+.review{margin:20px 0px 25px 0px; padding:0px 0px 20px 0px; background:#FFF; border-bottom:#999 dashed 1px;}
+.review h2{ color: #fab207;  }
+.review h4{ color: #000; font-family: "dosissemibold"; font-size:15px; letter-spacing: 0;line-height: 20px; margin: 0; padding:15px 20px 0px 20px;}
+.review h1{ color: #555; font-family: "dosissemibold"; font-size:22px; text-align:left !important; letter-spacing: 0;line-height: 20px; margin: 0; padding:0px 20px;}
+
+
+.category_box{margin:25px 0px 10px 0px; padding:0px 0px 6px 0px; overflow:hidden;  background:#FFF; border:#f9d98f 1px solid;  }
+.category_box h4{color: #0e0e0e; font-size:16px; margin:0px 0px 0px 0; padding:10px 5px 0px 10px;  font-family: 'dosissemibold'; }
+.category_box h5{color: #000; font-size:14px; margin:0px 0px 0px 0; padding:15px 10px 10px 10px;  font-family: 'dosisbook'; }
+.category_box h5 span{margin:0px 0px 0px 10px; padding:5px 5px 10px 0px;}
+.category_box h5 strong{margin:0px 0px 0px 0px; padding:0px 0px 0px 5px;}
+.category_box_border{margin:10px 0px 0px 0px; padding:4px; overflow:hidden; border:none;  background:#FFF; background: linear-gradient(to right, #f35102 , yellow , #f35102 );  }
+
+.category_box p{color: #000; font-size:14px; margin:0px 0px 0px 0; padding:15px 10px 10px 10px;  font-family: 'dosisbook'; text-align:justify }
+
+.video_box h1{ color:#fff; line-height:20px; position:relative; font-size:20px;  padding:0px 0px 0px 0px; font-weight:600;  position:absolute; top:110px; left:22px;}
+
+.video_box_height{height:165px;}
+.category_box:hover{overflow:hidden;  border:#c98e02 1px solid; box-shadow:0px 0px 5px #fab207;  }
+
+.testimonial{padding:0px; text-align:center; margin-top:30px;  }
+.testimonial h2{color: #fab207; font-size:20px; margin:0px 0px 0 0; padding:15px 15px 10px 150px; line-height:30px; text-align:left; letter-spacing:0px; font-family: 'dosisbook'; text-transform:capitalize;  }
+.testimonial p{color: #fff; font-size:15px; margin:0px 0px 0 0; padding:10px  10px 0px 10px ; line-height:22px; text-align:left; letter-spacing:0px;font-family: 'Segoe UI'; font-weight:300;   }
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 1024px) {
+.nav > li > a {
+    padding:10px 3px 10px 3px;
+   
+}
+.footer_nav_padding{padding-left:0px; padding-right:15px;}
+.footer_width{width:100%}
+}
+@media only screen and (max-width: 992px) {
+.gallery_product
+{
+    margin-bottom: 30px;
+	height:160px;
+}
+.step_box {
+    background: #1c1d20 none repeat scroll 0 0;
+    border-right: 1px solid #eee;
+    height: 150px;
+    margin: 0;
+    overflow: hidden;
+}
+}
+
+@media only screen and (max-width: 767px) {
+	
+	.slick-prev{display:none !important;}
+.slick-next{display:none !important ;}
+	
+.navbar-brand{  padding: 12px 0 0 15px;
+    width: 150px;}
+	
+	.navbar-toggle {
+    background-color: #fab207;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius:2px;
+    float: right;
+    margin-bottom: 8px;
+    margin-right: 15px;
+    margin-top: 17px;
+    padding: 4px 5px;
+    position: relative;
+}
+
+.navbar-toggle .icon-bar {
+    border-radius: 1px;
+    display: block;
+    height: 2px;
+    width: 24px;
+}
+
+.navbar-collapse {
+    border-top: 1px solid transparent;
+    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1) inset;
+    max-height: 600px;
+    overflow-x: visible;
+    padding-left: 15px;
+    padding-right: 15px;
+	background:#000;
+	margin-top: 10px;
+	border: 1px solid #c3c3c3;
+}
+
+
+.wrap_margin{margin-top:60px;}
+}
+
